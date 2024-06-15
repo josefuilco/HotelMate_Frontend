@@ -4,10 +4,9 @@ El proyecto esta siendo desarrollado en React + Vite para simplificar el trabajo
 
 ## Requisitos Previos
 
-Debe de contar con las siguientes aplicaciones para poder correr esta aplicación:
+Debe de tener instalado lo siguiente para poder correr esta aplicación:
 
-1. Node: La aplicación usa node con **npm**.
-2. Npm: Necesitas tener la version mas actualizada del gestor de paquetes.
+1. Node: La aplicación usa node con **npm** lo puede encontrar en [Install Node 20](https://nodejs.org/dist/v20.14.0/node-v20.14.0-x64.msi).
 
 ## ¿Cómo Inicializar la App?
 
